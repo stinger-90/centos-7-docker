@@ -1,4 +1,6 @@
-# centos-7-docker
+#  Centos 7 Docker Image
+
+Based on CentOS Linux release 7.6.1810 (Core) 
 
 ## Build Container
 ```
